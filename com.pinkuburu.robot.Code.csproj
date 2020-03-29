@@ -71,7 +71,6 @@
     <Compile Include="application\JIn10\Jin10DataParsing.cs" />
     <Compile Include="application\JIn10\MySqlHelperzha.cs" />
     <Compile Include="application\JIn10\TheTimer.cs" />
-    <Compile Include="application\TRPG_Dice.cs" />
     <Compile Include="application\DragaliaLost\DragaliaLost.cs" />
     <Compile Include="Event_AppEnable.cs" />
     <Compile Include="Event_GroupMessage.cs" />

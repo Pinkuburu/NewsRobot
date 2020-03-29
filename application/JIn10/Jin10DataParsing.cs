@@ -39,7 +39,7 @@ namespace com.pinkuburu.robot.Code.application.JIn10
     //    public string content { get; set; }
     //}
 
-    public class JinDataParsing
+    public class Jin10DataParsing
     {
         public string id { get; set; }
         public string time { get; set; }
